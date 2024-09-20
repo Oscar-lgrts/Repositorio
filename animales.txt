@@ -3,3 +3,6 @@ tortuga
 toruco
 wombat
 gato
+lagarto 
+pez
+águila
